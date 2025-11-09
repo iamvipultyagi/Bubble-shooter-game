@@ -33,13 +33,17 @@ See [SETUP.md](SETUP.md) for complete installation instructions including backen
 - **User System**: Registration and login (with backend)
 - **Responsive Design**: Works on desktop and mobile
 
-## 🎨 Screenshots
-
-The game features a modern glass-morphism design with:
-- Colorful bubble grid
-- Smooth animations
-- Intuitive aiming system
-- Clean UI with score tracking
+## 🏷️ Tags
+- ReactJS
+- Node.js
+- Express.js
+- MongoDB
+- HTML
+- CSS
+- Web Game
+- Bubble Shooter
+- Frontend & Backend
+- Full Stack Project
 
 ## 🏗️ Tech Stack
 
